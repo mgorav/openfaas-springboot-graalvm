@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gonnect.faas.nativespringboot</groupId>
-    <artifactId>springboot-rsocket-native</artifactId>
+    <groupId>com.gonnect.faas.sbgraal</groupId>
+    <artifactId>sbgraal</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>springboot-rsocket-native</name>
-    <description>Springboot native with rsocket template for Faas</description>
+    <name>sbgraal</name>
+    <description>Springboot graalvm with rsocket template for Faas</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
