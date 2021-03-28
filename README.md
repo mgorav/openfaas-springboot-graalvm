@@ -8,7 +8,7 @@ This is an OpenFaas template, which provides following environments:
 - spring native
 
 Write your business loginc in function, i.e. just provide implementation of RequestHandler. By DI, the implementation
-relayed from the function REST class.
+relayed to the function from REST class.
 
 Hence, just code, function - RequestHandler, DO NOT worry about the docker,k8s etc.
 
