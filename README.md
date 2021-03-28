@@ -10,6 +10,6 @@ mvn -Pnative-image package  -DskipTests
 
 faas-cli template pull https://github.com/mgorav/openfaas-springboot-graalvm
 
-faas-cli new --lang sb-native  sb-native-func
+faas-cli new --lang  sb-graalvm   sb-graalvm
 
 
