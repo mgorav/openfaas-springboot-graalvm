@@ -147,10 +147,6 @@
                         <groupId>org.graalvm.nativeimage</groupId>
                         <artifactId>native-image-maven-plugin</artifactId>
                         <version>21.0.0.2</version>
-                        <!--                        <configuration>-->
-                        <!--                            &lt;!&ndash; The native image build needs to know the entry point to your application &ndash;&gt;-->
-                        <!--                            <mainClass>com.gonnect.faas.nativespringboot.SpringBootNativeApp</mainClass>-->
-                        <!--                        </configuration>-->
                         <executions>
                             <execution>
                                 <goals>
