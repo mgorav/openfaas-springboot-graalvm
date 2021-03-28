@@ -1,8 +1,8 @@
-# OpenFaas Template Spring Boot + GraalVM
+# OpenFaas Template for Spring Boot + GraalVM
 
 This is an OpenFaas template, which provides following environments:
 - spring boot
-- rsocket
+- RSocket
 - GraalVM
 - jdk 11
 - spring native
