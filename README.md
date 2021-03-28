@@ -1,6 +1,6 @@
 # OpenFaas Template Spring Boot + GraalVM
 
-This is OpenFaas teamplate, which provides following environments:
+This is an OpenFaas template, which provides following environments:
 - spring boot
 - rsocket
 - GraalVM
