@@ -1,2 +1,2 @@
 language: sb-graalvm
-fprocess: '/sb-graalvm'
+fprocess: './sb-graalvm'
