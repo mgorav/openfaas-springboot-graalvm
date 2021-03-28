@@ -7,7 +7,7 @@ RUN mkdir -p $APP_HOME/function
 
 WORKDIR $APP_HOME
 
-COPY ./ .
+COPY .. .
 
 # For SDKMAN to work we need unzip & zip
 RUN yum install -y unzip zip
